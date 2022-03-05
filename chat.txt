@@ -1,3 +1,5 @@
 Sample code for chat app
 
 day 2
+
+day 3
